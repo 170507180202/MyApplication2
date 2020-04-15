@@ -12,6 +12,7 @@
         android:text="test"
         android:textSize="60sp"
         android:layout_gravity="center"
-        android:textColor="@drawable/img"
+        android:textColor="@color/colorPrimary"
+
         android:layout_height="wrap_content" />
 </FrameLayout>
